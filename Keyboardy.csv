@@ -1,0 +1,7 @@
+﻿"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1,D2,D3,D4,D9","D","","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","5",""
+"D5,D6","WS2812B","https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","2",""
+"J1","OLED_DISPLAY","","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","1",""
+"SW1","RotaryEncoder_Switch","","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","1",""
+"SW2,SW3,SW4,SW5","SW_Push_45deg","","MX_Solderable:MX-Solderable-1U","4",""
+"U1","Seeed Studio XIAO RP2040","","Seeed Studio XIAO Series Library:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM","1",""
