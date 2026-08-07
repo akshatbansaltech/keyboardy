@@ -15,6 +15,7 @@ Based on the example macropad from the official [hackclub/hackpad](https://githu
 - `Keyboardy.kicad_sch` / `Keyboardy.kicad_pcb` — KiCad schematic and board
 - `Keyboardy_CAD/` — case models and board STEP export
 - `libraries/` — footprints used by the project
+- `kicad_care_package/` — XIAO and SK6812 symbols + footprints (from Hack Club's KiCad care package)
 
 ## Schematic
 
