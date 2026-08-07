@@ -12,12 +12,15 @@ Based on the example macropad from the official [hackclub/hackpad](https://githu
 - OLED header
 
 ## Contents
-- `PCB/` — KiCad schematic and board (`Keyboardy.kicad_sch` / `.kicad_pcb` / `.kicad_pro`)
-- `CAD/` — case models and board STEP export
-- `Firmware/` — KMK and QMK firmware
-- `production/` — gerbers.zip, case parts, firmware
-- `libraries/` — footprints used by the project
-- `kicad_care_package/` — XIAO and SK6812 symbols + footprints (from Hack Club's KiCad care package)
+- [PCB/Keyboardy.kicad_sch](PCB/Keyboardy.kicad_sch) — schematic
+- [PCB/Keyboardy.kicad_pcb](PCB/Keyboardy.kicad_pcb) — board layout
+- [CAD/Keyboardy-Case.step](CAD/Keyboardy-Case.step) — full case assembly
+- [CAD/Keyboardy-main-body.stl](CAD/Keyboardy-main-body.stl) — case bottom
+- [CAD/Keyboardy-top-cover.stl](CAD/Keyboardy-top-cover.stl) — case top
+- [Firmware/KMK/main.py](Firmware/KMK/main.py) — KMK firmware
+- [production/gerbers.zip](production/gerbers.zip) — PCB production files
+- [libraries/](libraries/) — footprints used by the project
+- [kicad_care_package/](kicad_care_package/) — XIAO and SK6812 symbols + footprints
 
 ## BOM
 - 4x Cherry MX switches
