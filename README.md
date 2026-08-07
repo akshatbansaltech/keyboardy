@@ -27,7 +27,7 @@ PCB
 
 CAD
 
-<img src="assets/Screenshot 2026-08-07 093650.png" alt="CAD" width="400"/>
+<img src="assets/Keyboardy_CAD.png" alt="CAD" width="400"/>
 
 ## Credits
 
