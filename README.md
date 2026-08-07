@@ -16,16 +16,15 @@ Based on the example macropad from the official [hackclub/hackpad](https://githu
 - `Keyboardy_CAD/` — case models and board STEP export
 - `libraries/` — footprints used by the project
 
-## Photos
-Schematic
+## Schematic
 
 <img src="assets/Keyboardy_SCH.png" alt="Schematic" width="400"/>
 
-PCB
+## PCB
 
 <img src="assets/Keyboardy_PCB.png" alt="PCB" width="400"/>
 
-CAD
+## CAD
 
 <img src="assets/Keyboardy_CAD.png" alt="CAD" width="400"/>
 
