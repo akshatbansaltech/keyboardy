@@ -5647,7 +5647,7 @@
 			(uuid "41bfd1f2-19d0-4ad7-bc69-7863714010d0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/manis/Documents/KiCad/Keyboardy_CAD/EC11E_Switch_20mm.step"
+		(model "C:/Users/manis/Documents/KiCad/Keyboardy/CAD/EC11E_Switch_20mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
