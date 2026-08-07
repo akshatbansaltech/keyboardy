@@ -27,6 +27,12 @@ CAD
 
 <img src="assets/Screenshot 2026-08-07 093650.png" alt="CAD" width="400"/>
 
+## Credits
+
+This project is based on the example macropad from the official [hackclub/hackpad](https://github.com/hackclub/hackpad) repository. The PCB layout, CAD design, and reference firmware from that repo were a huge help in building Keyboardy.
+
+Huge thank you to Hack Club and everyone behind the [Hackpad YSWS](https://hackpad.hackclub.com/) for the parts, the guides, and the whole program — genuinely could not have built this without them. 🧡
+
 ## Parts
 - 4x Cherry MX switches
 - 4x DSA keycaps
