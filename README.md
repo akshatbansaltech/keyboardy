@@ -15,6 +15,8 @@ Based on the example macropad from the official [hackclub/hackpad](https://githu
 - [PCB/Keyboardy.kicad_sch](PCB/Keyboardy.kicad_sch) — schematic
 - [PCB/Keyboardy.kicad_pcb](PCB/Keyboardy.kicad_pcb) — board layout
 - [CAD/Keyboardy-Case.step](CAD/Keyboardy-Case.step) — full case assembly
+- [production/Keyboardy-Body.stl](production/Keyboardy-Body.stl) — case body part
+- [production/Keyboardy-Top-Cover.stl](production/Keyboardy-Top-Cover.stl) — case top cover part
 - [Firmware/KMK/main.py](Firmware/KMK/main.py) — KMK firmware
 - [production/gerbers.zip](production/gerbers.zip) — PCB production files
 - [Keyboardy.csv](Keyboardy.csv) — component BOM
