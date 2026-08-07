@@ -14,6 +14,19 @@ A 4-key macropad with a rotary encoder and RGB LEDs, built for the [Hackpad YSWS
 - `Keyboardy_CAD/` — case models and board STEP export
 - `libraries/` — footprints used by the project
 
+## Photos
+Schematic
+
+<img src="assets/Keyboardy_SCH.png" alt="Schematic" width="400"/>
+
+PCB
+
+<img src="assets/Keyboardy_PCB.png" alt="PCB" width="400"/>
+
+CAD
+
+<img src="assets/Screenshot 2026-08-07 093650.png" alt="CAD" width="400"/>
+
 ## Parts
 - 4x Cherry MX switches
 - 4x DSA keycaps
